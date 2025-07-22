@@ -9,17 +9,18 @@ theme: jekyll-theme-chirpy
 lang: en
 
 # Change to your timezone › https://kevinnovak.github.io/Time-Zone-Picker
-timezone: Africa/Marrakech
+timezone: Africa/Casablanca
 
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
 title: Honoré M12 # the main title
 
-tagline: A text-focused Jekyll theme # it will display as the subtitle
+tagline: Un site test pour le moment, le meilleur arrive # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
-  A minimal, responsive and feature-rich Jekyll theme for technical writing.
+  Un site test pour le moment, le meilleur arrive.
+  Il est encore en construction, mais vous pouvez déjà y trouver des articles intéressants à moitié débutés.
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
@@ -98,7 +99,7 @@ theme_mode: # [light | dark]
 cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar:
+avatar: https://scontent.fcmn1-4.fna.fbcdn.net/v/t39.30808-1/439914191_952858469845091_1723811458233399581_n.jpg?stp=dst-jpg_s200x200_tt6&_nc_cat=110&ccb=1-7&_nc_sid=1d2534&_nc_eui2=AeHwE8tyo4PuQjaizL3NEl2qFHVIXnASPF8UdUhecBI8X7f4tMBTXmkUNzW1SYMKJYJrwcdXjRBpkjjn0ch259gg&_nc_ohc=qKhAe4_htHwQ7kNvwE-2pPC&_nc_oc=AdmneMUWt54yZuTxMrUBCfSPiorpPWugzFZcS0mBmXk3V4saoHqBgPkluAbQtYi-f90&_nc_zt=24&_nc_ht=scontent.fcmn1-4.fna&_nc_gid=wP0wVzTJQwZ2KCWhWV0o2g&oh=00_AfSqFdVHN1IJukd-hmI929utxXOkcAN5iXOffLdQ8nSzQw&oe=68855D8A
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
